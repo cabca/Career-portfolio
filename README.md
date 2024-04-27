@@ -1,2 +1,1 @@
-# Career-portfolio
-This is a portfolio of my projects.
+# This is a portfolio of my projects.
